@@ -1,0 +1,29 @@
+.weatherBg{
+  background: url("https://img.freepik.com/free-vector/blue-sky-with-clouds-background-elegant_1017-26302.jpg?w=996&t=st=1690136300~exp=1690136900~hmac=e89d9126e3d3dbcdfdcbae002aa54f3d5cd124cc489e605517f9c9e3e1b6a5e2");
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color: white;
+  font-weight :700;
+}
+.weatherResultBox{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.weatherIcon{
+  margin-top: 2rem;
+  width: 100px;
+  height: 100px;
+}
+.weathercity{
+  font-size:  35px;
+}
+.weatherTemp{
+  font-size: 45px;
+  font-weight: 700px;
+}
